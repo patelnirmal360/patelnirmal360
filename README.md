@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @patelnirmal360
-- 🌱 I’m currently learning full stack development
+- 👋 Hi, I am @patelnirmal360
+- 🌱 currently learning how to create ETL pipelines to transform data.
+- 👀college has not taught me anything so learning by own.
+   
+
 
 
 <!---
