@@ -1,6 +1,17 @@
-- 👋 Hi, I am @patelnirmal360
-- 🌱 currently learning how to create ETL pipelines to transform data.
-- 👀college has not taught me anything so learning by own.
+- 👋 Hi, I am Nirmal
+- From 30/09/26 i am documenting my hands on journey to learn skills required for IT support.
+- My focus areas include:
+- Windows 10/11
+- Networking
+- Active Directory
+- Microsoft 365
+- Microsoft Entra ID
+- Microsoft Intune
+- PowerShell
+- ITSM / Service Desk
+- Troubleshooting
+
+
    
 
 
